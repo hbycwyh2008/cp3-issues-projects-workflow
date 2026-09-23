@@ -2,13 +2,13 @@
 
 Complete every field and response **before** final submission.
 
-Name:
+Name:Morgan 
 
-GitHub Username:
+GitHub Username:hbycwyh2008 
 
-Required Branch:
+Required Branch:cp3-hbycwyh2008
 
-Project URL:
+Project URL:https://github.com/KLIS-CS/GitHub-Issues-Projects-Workflow/issues/2
 
 Project Statuses Used: Todo → In Progress → Review → Done
 
@@ -16,22 +16,22 @@ Project Statuses Used: Todo → In Progress → Review → Done
 
 Why is an Issue useful before implementation begins?
 
-Answer:
+Answer:fsfd
 
 ## Question 2
 
 What is the purpose of acceptance criteria in an Issue?
 
-Answer:
+Answer:dfsf
 
 ## Question 3
 
 Why should both the Issue and the Pull Request be tracked in the same GitHub Project?
 
-Answer:
+Answer:dsfsd
 
 ## Reflection
 
 What should you self-check in the Pull Request before merging and moving the work from Review to Done, and why?
 
-Answer:
+Answer:fsaf
